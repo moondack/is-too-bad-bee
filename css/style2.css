@@ -1,0 +1,33 @@
+.right{
+width: 200px;
+margin-right: 20px;
+padding: 20px;
+border: 1px solid black;
+}
+
+.block{
+    margin: 20px 0 50px 220px;
+}
+
+.sitename{
+    margin-bottom: 10px;
+    font: 20px Arial;
+}
+
+nav{
+  display: flex;
+    width: 600px;
+    border: 1px solid black;  
+} 
+th{
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+footer{
+    height: 100px;
+    width:100% ;
+    background-color: orange;
+    font-size: 32px;
+    text-align: center;
+}
